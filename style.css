@@ -14,6 +14,8 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 background-color: white;
+margin: 30px;
+padding: 30px;
 width: 700px;
 height: 700px;
 }
@@ -24,9 +26,10 @@ height: 700px;
 }
 .text {
   width: 292px;
-  height: 300px;
+  height: 200px;
 }
 button {
   width: 300px;
-  height: 38pxg;
+  height: 68px;
+  background: violet;
 }
