@@ -13,7 +13,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-background-color: white;
+background-color: rgb(180, 250, 236);
 margin: 30px;
 padding: 30px;
 width: 700px;
